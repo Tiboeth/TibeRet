@@ -1,4 +1,4 @@
-# Pong
+# Pong: Forked from Nikcorg so learn what he learned :)
 
 This is a remake of Pong for an exhibition the company I work for, [Luxus](http://luxus.fi), organized.
 
